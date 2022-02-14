@@ -9,7 +9,7 @@ I used 2 different machines.
 2. Kaggle notebook (for preprocess and inference)
 
 # Data
-- Jigsaw Rate Severity of Toxic Comments(for preprocess)
+- Jigsaw Rate Severity of Toxic Comments(for preprocess and validation)
   - Please download data to input from https://www.kaggle.com/c/jigsaw-toxic-severity-rating/data and unzip it.
 - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/): for calpis-001 and calpis-011
   - Please download data to input/jigsaw-toxic-severity-rating/ from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data and unzip it.
